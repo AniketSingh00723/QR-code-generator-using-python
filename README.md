@@ -1,3 +1,4 @@
+```python
 # QR-code-generator-using-python
 import qrcode
 
@@ -23,3 +24,4 @@ img = qr.make_image(fill_color = "black", back_color = "white")
 img.save("qrcode.png")
 
 print("QR Code generated successfully")
+```
