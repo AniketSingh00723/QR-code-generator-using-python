@@ -3,7 +3,7 @@
 import qrcode
 
 #data i want to store in qr code
-data = "www.youtube.com"
+data = "https://www.snapchat.com/add/aniketsingh_782?share_id=GPEcP3HPxOA&locale=en-GB"
 
 #create Qr code object
 qr = qrcode.QRCode(
